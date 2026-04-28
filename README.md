@@ -68,6 +68,14 @@ The model is optimized to support business decision-making by identifying more a
 
 ---
 
+## 📸 Demo Screenshots
+
+### App Interface
+![App](images/landing_pagr.png)
+
+### Prediction Results
+![Results](images/results.png)
+
 ## 📂 Expected Dataset Format
 
 The app expects customer data similar to the Telco Customer Churn dataset.
