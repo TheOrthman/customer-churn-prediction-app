@@ -100,7 +100,6 @@ The uploaded file may include a Churn column, but it is not required for predict
 
 ---
 
-## 📂 Expected Dataset Format
 ##  🖥️ Streamlit App Features
 CSV upload
 Churn prediction table
