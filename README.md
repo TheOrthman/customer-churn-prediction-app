@@ -120,7 +120,7 @@ Downloadable prediction CSV
 ---
 🚀 How to Run Locally
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/customer-churn-prediction-app.git
+git clone https://github.com/TheOrthman/customer-churn-prediction-app/tree/main
 cd customer-churn-prediction-app
 2. Install dependencies
 pip install -r requirements.txt
