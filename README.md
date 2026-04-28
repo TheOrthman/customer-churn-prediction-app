@@ -108,6 +108,13 @@ The uploaded file may include a Churn column, but it is not required for predict
 
 ---
 
+## 📸 Demo Screenshots
+
+### App Interface
+![App](images/app_screenshot.png)
+
+### Prediction Results
+![Results](images/results.png)
 ##  🖥️ Streamlit App Features
 CSV upload
 Churn prediction table
