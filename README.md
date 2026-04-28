@@ -96,4 +96,6 @@ PaymentMethod
 MonthlyCharges
 TotalCharges
 
+##
 
+The uploaded file may include a Churn column, but it is not required for prediction.
