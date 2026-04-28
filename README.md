@@ -11,6 +11,7 @@ It allows users to upload customer data and identify which customers are likely 
 The goal is to help businesses take proactive retention actions before losing valuable customers.
 
 ---
+> Helps businesses identify high-risk customers early and take action to reduce churn.
 
 ## 🎯 Problem Statement
 
