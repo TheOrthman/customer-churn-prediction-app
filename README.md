@@ -1,3 +1,5 @@
+![App Preview](images/landing_page.png)
+
 # 📉 Customer Churn Prediction App
 
 ## 🚀 Overview
